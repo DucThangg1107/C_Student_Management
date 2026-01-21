@@ -1,36 +1,38 @@
-\# Quản lý sinh viên bằng C( cơ bản )
+\# Student Management System (C)
 
 
 
-\## Chức năng
+\## Features
 
-\- Nhập / xuất danh sách sinh viên
+\- Input student list
 
-\- Tính điểm trung bình
+\- Calculate GPA
 
-\- Tìm sinh viên DTB cao nhất
+\- Find highest GPA student
 
-\- Đếm sinh viên rớt
+\- Count failed students
 
-\- Sắp xếp theo DTB tăng dần
+\- Sort by GPA
 
-
-
-\## Kỹ thuật sử dụng
-
-\- Struct
-
-\- Con trỏ
-
-\- Mảng động (malloc/free)
-
-\- Menu console
+\- Save to file / load from file
 
 
 
-\## Sinh viên
+\## Techniques
 
-\- Năm 1 – Kỹ thuật phần mềm
+\- Struct \& Pointer
+
+\- Dynamic Memory Allocation
+
+\- File I/O
+
+\- Modular Programming
+
+
+
+\## Author
+
+\- First-year IT student
 
 
 
